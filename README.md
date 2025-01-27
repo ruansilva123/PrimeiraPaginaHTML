@@ -1,6 +1,6 @@
 # WhatsApp Web Clone
 
-Este projeto tem como objetivo a recriação da página de login do **WhatsApp Web** como parte de um desafio de desenvolvimento. O foco foi aplicar os conhecimentos adquiridos durante o curso, criando uma réplica fiel da página original em termos de layout e design.
+Este projeto tem como objetivo a recriação da página de login do **WhatsApp Web** como parte de um desafio de desenvolvimento (aprendizagem SENAI - 2024). O foco foi aplicar os conhecimentos adquiridos durante o curso, criando uma réplica fiel da página original em termos de layout e design.
 
 ### 🚀 Executando o projeto: 
 
